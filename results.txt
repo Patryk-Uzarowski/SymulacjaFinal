@@ -1,0 +1,5 @@
+Results at the end of simulation:
+Ammount of attackers: 3
+Ammount of defenders: 7
+Winning team: Defenders
+Total time of the battle: 0.1020955 sec.
